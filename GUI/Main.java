@@ -11,7 +11,7 @@ class Main {
         frame.setSize(420, 420); // Sets the width and height.
         frame.setVisible(true);
 
-        ImageIcon image = new ImageIcon(); // Create an image icon.
+        ImageIcon image = new ImageIcon("animation.png"); // Create an image icon.
         frame.setIconImage(image.getImage()); // Change icon of the frame.
 
         frame.getContentPane().setBackground(new Color(123,50,250));
