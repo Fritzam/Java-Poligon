@@ -1,6 +1,6 @@
 package Interfaces;
 
-public interface Predator {
+interface Predator {
 
     void hunt();
 }

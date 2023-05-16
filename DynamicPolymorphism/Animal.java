@@ -1,7 +1,7 @@
 package DynamicPolymorphism;
 
-public class Animal {
-    public void speak() {
-        System.out.println("Animal goes *brrrr*");
+class Animal {
+    void speak() {
+        System.out.println("Animal goes *brrrr*!");
     }
 }

@@ -1,6 +1,6 @@
 package Interfaces;
 
-public interface Prey {
+interface Prey {
 
     void flee();
 }
